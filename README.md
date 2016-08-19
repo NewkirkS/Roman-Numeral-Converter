@@ -54,4 +54,4 @@ _HTML, CSS, Bootstrap, JavaScript, jQuery_
 
 *This program is licensed under the MIT license.*
 
-Copyright (c) 2016 **_Kyle Langem, Stephen Newkirk_**
+Copyright (c) 2016 **_Kyle Lange, Stephen Newkirk_**
